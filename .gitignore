@@ -1,0 +1,5 @@
+**/*.vtk
+bracked_3d/outputs/bracket/events*
+panel/outputs/panel/events*
+**/events*
+**/*.0
